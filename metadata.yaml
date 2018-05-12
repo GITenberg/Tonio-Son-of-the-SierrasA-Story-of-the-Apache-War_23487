@@ -1,0 +1,36 @@
+_repo: Tonio-Son-of-the-SierrasA-Story-of-the-Apache-War_23487
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Post, Charles Johnson
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '25880'
+    url: http://www.gutenberg.org/2009/agents/25880
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23487'
+  lccn: 06019777
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apache Indians -- Wars, 1872-1873 -- Fiction'
+- !lcsh 'Soldiers -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: 'Tonio, Son of the Sierras: A Story of the Apache War'
+url: http://www.gutenberg.org/ebooks/23487
